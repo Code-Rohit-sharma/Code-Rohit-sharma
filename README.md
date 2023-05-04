@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://portfolio-rohit.netlify.app/](https://portfolio-rohit.netlify.app/)
 
-- 💬 Ask me about **Python , Django , Django Rest Framework**
+- 💬 Ask me about **Python , Django , Django Rest Framework SQL PostgreSQL Linux**
 
 - 📫 How to reach me **rohitparashar701@gmail.com**
 
